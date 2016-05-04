@@ -9,5 +9,9 @@
   },
   "dependencies": {
     "jquery": "^2.2.3"
+  },
+  "browser": {
+    "add-to-list" : "./js/add-to-list.js",
+    "nav" : "./js/nav.js"
   }
 }
